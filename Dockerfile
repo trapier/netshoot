@@ -26,14 +26,14 @@ RUN set -ex \
     ipvsadm \
     liboping \
     mtr \
-    net-snmp-tools \
     netcat-openbsd \
+    net-snmp-tools \
     ngrep \
     nmap \
     nmap-nping \
     nmap-nping \
-    py-crypto \
     py2-virtualenv \
+    py-crypto \
     python2 \
     scapy \
     socat \
